@@ -15,15 +15,15 @@ Programado por: Carlos Andres Marin Agudelo
 * Restricciones  
 ## Ejecutar la solución  
 
-`node problema1.js`  
-`node problema2.js`  
-`node problema3.js`  
-`node problema4.js`  
-`node problema5.js`  
-`node problema6.js`  
-`node problema7.js`  
-`node problema8.js`  
-`node problema9.js`  
-`node problema10.js`   
+`node punto1.js`  
+`node punto2.js`  
+`node punto3.js`  
+`node punto4.js`  
+`node punto5.js`  
+`node punto6.js`  
+`node punto7.js`  
+`node punto8.js`  
+`node punto9.js`  
+`node punto10.js`   
 * 
 Todos los derechos reservado [Carlo Andres Marin Agudelo](https://github.com/Carlos-Mar14/Taller1Avanzada)]
